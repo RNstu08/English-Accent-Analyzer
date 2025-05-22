@@ -1,0 +1,4 @@
+ffmpeg
+cmake
+pkg-config
+build-essential
