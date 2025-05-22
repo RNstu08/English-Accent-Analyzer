@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+*.env
+.env
+
+# IDE / OS specific
+.vscode/
+.DS_Store
+*.idea/
+
+# Temporary files & media
+temp_audio/
+temp_audio_streamlit/
+temp_audio_extraction_module/
+*.wav
+*.mp3
+*.mp4
+*.m4a
+
+# Streamlit
+.streamlit/
