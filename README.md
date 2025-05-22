@@ -6,7 +6,7 @@ Use this link to access the app "https://rnstu08-english-accent-analyzer-app-pvv
 
 AccentGuard Pro is a tool designed to analyze spoken English accents from video URLs or uploaded audio files. It leverages speaker diarization to distinguish between different speakers in an audio track, identifies the language spoken by each, and then classifies the English accent for segments identified as English. This tool aims to assist in evaluating spoken English for hiring purposes by providing nuanced insights into a candidate's speech.
 
-**Live Demo Link:** `[You will insert your deployed Streamlit Cloud app link here]`
+**Live Demo Link:** `[https://rnstu08-english-accent-analyzer-app-pvvmta.streamlit.app/]`
 
 ## Features
 
